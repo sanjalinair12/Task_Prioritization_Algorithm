@@ -1,10 +1,10 @@
-# Robot Task Assignment using AHP and VIKOR
+# Robot Task Assignment using Multi-Criteria Decision Making Approaches
 ==============================================
 
 ## Overview
 ------------
 
-This project implements a robot task assignment system using the Analytic Hierarchy Process (AHP) and VIKOR method. The system takes into account multiple criteria and task types to assign robots to tasks.
+This project implements a robot task assignment system using the Analytic Hierarchy Process (AHP), TOPSIS and VIKOR method. The system takes into account multiple criteria and task types to assign robots to tasks.
 
 ## Features
 ------------
