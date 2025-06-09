@@ -30,7 +30,7 @@ This project implements a robot task assignment system using the Analytic Hierar
    ## Usage
 ---------
 
-1.  Run the script: `python robot_task_assignment.py`
+1.  Run the script: `python SearchAndRescue.ipynb`
 2.  Follow the prompts to input the number of robots, robot types, and task types.
 3.  Enter the pairwise comparisons for the criteria to calculate the weights.
 4.  Input the values for each robot and scores for each task.
